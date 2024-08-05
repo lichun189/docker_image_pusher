@@ -1,1 +1,2 @@
 dockurr/windows:latest
+luckyant/networkdownload:base
