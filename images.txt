@@ -2,3 +2,4 @@ dockurr/windows:latest
 zctmdc/frp:Alpha
 mikolatero/vlmcsd:latest
 developer024/networkdownload:latest
+abbey22/traffic-control
