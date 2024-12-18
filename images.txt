@@ -2,4 +2,4 @@ dockurr/windows:latest
 luckyant/networkdownload:base
 zctmdc/frp:Alpha
 mikolatero/vlmcsd:latest
-youdianbaozha/traffic-waster：2.10.15
+youdianbaozha/traffic-waster:latest
