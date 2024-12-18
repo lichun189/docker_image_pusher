@@ -1,5 +1,4 @@
 dockurr/windows:latest
-luckyant/networkdownload:base
 zctmdc/frp:Alpha
 mikolatero/vlmcsd:latest
-youdianbaozha/traffic-waster:latest
+developer024/networkdownload:latest
