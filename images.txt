@@ -2,3 +2,4 @@ dockurr/windows:latest
 luckyant/networkdownload:base
 zctmdc/frp:Alpha
 mikolatero/vlmcsd:latest
+docker pull youdianbaozha/traffic-waster：2.10.15
