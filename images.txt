@@ -5,4 +5,4 @@ developer024/networkdownload:latest
 xhofe/alist:latest-aio
 developer024/networkdownload:dev1
 luode0320/web-start
-budtmo/docker-android:emulator_13.0
+budtmo/docker-android:emulator_10.0_v2.19.0-p0
